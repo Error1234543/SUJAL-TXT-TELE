@@ -7,7 +7,7 @@ from os import environ
 # API & Bot Configuration
 API_ID = int(environ.get("API_ID", "20619533"))
 API_HASH = environ.get("API_HASH", "5893568858a096b7373c1970ba05e296")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7270825299:AAGkzGRc1JsLFe_DnTj-A3ZvzxIVK8RzQoM")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7559617899:AAFohAG3PD57vIDQYsyr0LnrqUJ-Yp9OxjI")
 
 # Owner Info
 OWNER = int(environ.get("OWNER", "7447651332"))
